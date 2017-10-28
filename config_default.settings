@@ -1,0 +1,15 @@
+[PROGRAMM]
+CRYPT=path_crypt
+MAIL=path_mail
+
+[CONFIG_MAIL]
+RECEPIENT=email
+SUBJECT=subject
+BODY=bodu
+
+[KEY_MAIL]
+ATTACH=/a
+MAILTO=/m
+
+[CONFIG_CRYPT]
+PASSWORD=pass
